@@ -1,0 +1,31 @@
+/* Write your CSS here */
+* {
+  font-family: roboto;
+}
+.bg-container {
+  padding: 10px;
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.cowin-logo {
+  height: 50px;
+  margin-right: 10px;
+}
+.co-win-heading {
+  color: #2cc6c6;
+}
+.main-heading {
+  color: #cbd5e1;
+}
+.vaccination-coverage-container {
+  background-color: #1c1c2b;
+  padding: 15px;
+}
+.Vaccination-Coverage-heading {
+  color: #cbd5e1;
+}
